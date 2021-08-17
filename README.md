@@ -20,6 +20,8 @@
 
   This generator will allow the user to answer a series of prompts that will automatically become the body of the ReadMe file without the user having to manually create one everytime thereby saving them time. This in turn allows the project the ability to appear much more neat and proffesional which makes it much easier to navigate and increase its likelihood of being chosen over similar apps.
 
+![projectimg](utils/Images/vid/example.png?raw=true"projectimgpng")
+  
   
 
   ## [Installation](#table-of-contents)
