@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         name: 'why',
-        message: 'Why was the prokect created??'
+        message: 'Why was the project created??'
     },
     {
         type: 'input',
@@ -86,7 +86,7 @@ const questions = [
 // TODO: Create a function to write README file
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/generated-README.md', fileContent, err => {
+        fs.writeFile('./Develop/generated-README.md', fileContent, err => {
             if (err) {
                 reject(err);
                 return;
