@@ -1,5 +1,5 @@
 
-  # test
+  # Test project
   
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
@@ -49,7 +49,7 @@
 
   ## [Contributing](#table-of-contents)
   
-  Currently not taking any contributors
+  I am no longer looking for contributors at this time
 
   ## [Tests](#table-of-contents)
 
@@ -59,6 +59,6 @@
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/lretana1)
+  [GitHub](https://github.com/Lretana1)
 
   [Email: luisretana123@gmail.com](mailto:luisretana123@gmail.com)
