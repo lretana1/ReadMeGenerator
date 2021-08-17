@@ -36,7 +36,7 @@
   If you have done everything asked of you in the installation part of the guide, next youll want to type ‘node index.js’ in the terminal. Once all the answers have been answered correctyl the terminal will let list the questions with the response given for each along with a message that says ‘File created!’, and you should see your file under the ‘develop’ folder called ‘generatedREADME’. Because the newly created ReadMe is generated in markdown its as simple as copying and pasting the file anywhere it is required.
 
   ![projectimg](utils/Images/vid/ReadMeSnap.png?raw=true"projectimgpng")
-  
+  ![projectimg](utils/Images/vid/projectvid.webm?raw=true"projectimgpng")
   For more information on how to add screenshots for examples, visit the following website:
   
   [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
