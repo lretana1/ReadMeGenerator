@@ -28,11 +28,6 @@
 
   [README Generator Download Link](https://github.com/lretana1/ReadMeGenerator)
   
-  README Screenshot No License
-  ![README Screenshot No License](utils/images/no-license-screenshot.png)
-  
-  README Screenshot with License
-  ![README Screenshot with License](utils/images/with-license-screenshot.png)
 
   ## [Usage](#table-of-contents)
 
